@@ -1,0 +1,27 @@
+C:\Users\Пользователь\Dropbox\Учеба\Лабы Екатерине 2017\Intensive\Intensive\bin\Debug\Intensive.exe.config
+C:\Users\Пользователь\Dropbox\Учеба\практика 2017\Интенсив\Intensive\Intensive\bin\Debug\Intensive.exe.config
+C:\Users\Пользователь\Dropbox\Учеба\практика 2017\Интенсив\Intensive\Intensive\obj\Debug\Intensive.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Dropbox\Учеба\практика 2017\Интенсив\Intensive\Intensive\obj\Debug\Intensive.Add_eat.resources
+C:\Users\Пользователь\Dropbox\Учеба\практика 2017\Интенсив\Intensive\Intensive\obj\Debug\Intensive.Main.resources
+C:\Users\Пользователь\Dropbox\Учеба\практика 2017\Интенсив\Intensive\Intensive\obj\Debug\Intensive.Properties.Resources.resources
+C:\Users\Пользователь\Dropbox\Учеба\практика 2017\Интенсив\Intensive\Intensive\obj\Debug\Intensive.csproj.GenerateResource.Cache
+C:\Users\Пользователь\Dropbox\Учеба\практика 2017\Интенсив\Intensive\Intensive\bin\Debug\Intensive.exe
+C:\Users\Пользователь\Dropbox\Учеба\практика 2017\Интенсив\Intensive\Intensive\bin\Debug\Intensive.pdb
+C:\Users\Пользователь\Dropbox\Учеба\практика 2017\Интенсив\Intensive\Intensive\bin\Debug\System.Data.SQLite.dll
+C:\Users\Пользователь\Dropbox\Учеба\практика 2017\Интенсив\Intensive\Intensive\obj\Debug\Intensive.exe
+C:\Users\Пользователь\Dropbox\Учеба\практика 2017\Интенсив\Intensive\Intensive\obj\Debug\Intensive.pdb
+C:\Users\user\Desktop\Ины\intensive\Intensive\bin\Debug\Intensive.exe.config
+C:\Users\user\Desktop\Ины\intensive\Intensive\obj\Debug\Intensive.exe
+C:\Users\user\Desktop\Ины\intensive\Intensive\obj\Debug\Intensive.pdb
+C:\Users\user\Desktop\Ины\intensive\Intensive\bin\Debug\Intensive.exe
+C:\Users\user\Desktop\Ины\intensive\Intensive\bin\Debug\Intensive.pdb
+C:\Users\user\Desktop\Ины\intensive\Intensive\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\Ины\intensive\Intensive\obj\Debug\Intensive.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Ины\intensive\Intensive\obj\Debug\Intensive.Add_eat.resources
+C:\Users\user\Desktop\Ины\intensive\Intensive\obj\Debug\Intensive.Main.resources
+C:\Users\user\Desktop\Ины\intensive\Intensive\obj\Debug\Intensive.Properties.Resources.resources
+C:\Users\user\Desktop\Ины\intensive\Intensive\obj\Debug\Intensive.csproj.GenerateResource.Cache
+C:\Users\Пользователь\Dropbox\Учеба\практика 2017\Интенсив\Intensive\Intensive\obj\Debug\Intensive.Graph.resources
+D:\Intensive\Intensive\Intensive\bin\Debug\Intensive.exe.config
+D:\Intensive\Intensive\Intensive\obj\Debug\Intensive.exe
+D:\Intensive\Intensive\Intensive\obj\Debug\Intensive.pdb
