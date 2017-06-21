@@ -25,3 +25,12 @@ C:\Users\Пользователь\Dropbox\Учеба\практика 2017\Ин�
 D:\Intensive\Intensive\Intensive\bin\Debug\Intensive.exe.config
 D:\Intensive\Intensive\Intensive\obj\Debug\Intensive.exe
 D:\Intensive\Intensive\Intensive\obj\Debug\Intensive.pdb
+D:\Intensive\Intensive\Intensive\bin\Debug\Intensive.exe
+D:\Intensive\Intensive\Intensive\bin\Debug\Intensive.pdb
+D:\Intensive\Intensive\Intensive\bin\Debug\System.Data.SQLite.dll
+D:\Intensive\Intensive\Intensive\obj\Debug\Intensive.csprojResolveAssemblyReference.cache
+D:\Intensive\Intensive\Intensive\obj\Debug\Intensive.Add_eat.resources
+D:\Intensive\Intensive\Intensive\obj\Debug\Intensive.Graph.resources
+D:\Intensive\Intensive\Intensive\obj\Debug\Intensive.Main.resources
+D:\Intensive\Intensive\Intensive\obj\Debug\Intensive.Properties.Resources.resources
+D:\Intensive\Intensive\Intensive\obj\Debug\Intensive.csproj.GenerateResource.Cache

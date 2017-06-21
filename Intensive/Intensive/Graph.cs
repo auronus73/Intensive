@@ -27,5 +27,11 @@ namespace Intensive
             dateTimePicker2.MinDate = dateTimePicker1.Value.AddDays(1);
             dateTimePicker2.Value = dateTimePicker1.Value.AddDays(1);
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (dateTimePicker1.Value > dateTimePicker2.Value)
+                MessageBox.Show("Начальное значение должно быть меньше конечного!");
+        }
     }
 }

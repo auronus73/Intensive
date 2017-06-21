@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SQLite;
 
 namespace Intensive
 {
@@ -14,6 +15,9 @@ namespace Intensive
     {
         public int k = 0;
         public int k1 = 0;
+        int kkal = 0;
+        double kkal_product = 0;
+        
         public Add_eat()
         {
             InitializeComponent();
@@ -59,6 +63,19 @@ namespace Intensive
                 label4.Visible = true;
                 textBox1.Visible = true;
             }
+
+            try
+            {
+                Methods.connect.Open();
+                SQLiteCommand command = new SQLiteCommand(String.Format("select kkal from food where title='{0}'", comboBox2.Text), Methods.connect);
+                SQLiteDataReader reader = command.ExecuteReader();
+                while (reader.Read())
+                {
+                    kkal = reader.GetInt32(0);
+                }
+                Methods.connect.Close();
+            }
+            catch (Exception ex) { MessageBox.Show(ex.Message); }
         }
         
         private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
@@ -78,10 +95,24 @@ namespace Intensive
             { MessageBox.Show("Заполните поле"); }
             else
             {
-                Main.temp_for_progress += Convert.ToInt32(textBox1.Text);
-                
+                Main.temp_for_progress += Convert.ToInt32(kkal);
                 this.Close();
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            if (textBox1.Text != "")
+            {
+                kkal_product = (Convert.ToInt32(textBox1.Text.ToString())/100) * kkal;
+                label5.Text = kkal_product.ToString();
+            }
+        }
+
     }
 }
