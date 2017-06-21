@@ -34,3 +34,6 @@ D:\Intensive\Intensive\Intensive\obj\Debug\Intensive.Graph.resources
 D:\Intensive\Intensive\Intensive\obj\Debug\Intensive.Main.resources
 D:\Intensive\Intensive\Intensive\obj\Debug\Intensive.Properties.Resources.resources
 D:\Intensive\Intensive\Intensive\obj\Debug\Intensive.csproj.GenerateResource.Cache
+D:\Intensive\Intensive\Intensive\Intensive\bin\Debug\Intensive.exe.config
+D:\Intensive\Intensive\Intensive\Intensive\obj\Debug\Intensive.exe
+D:\Intensive\Intensive\Intensive\Intensive\obj\Debug\Intensive.pdb
