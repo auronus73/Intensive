@@ -61,5 +61,12 @@ namespace Intensive
             f.Location = Cursor.Position;
             f.ShowDialog();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            List_of_Food f = new List_of_Food();
+            f.Location = Cursor.Position;
+            f.ShowDialog();
+        }
     }
 }

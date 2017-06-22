@@ -95,7 +95,7 @@ namespace Intensive
             { MessageBox.Show("Заполните поле"); }
             else
             {
-                Main.temp_for_progress += Convert.ToInt32(kkal);
+                Main.temp_for_progress += Convert.ToInt32(kkal_product);
                 this.Close();
             }
         }
@@ -109,7 +109,7 @@ namespace Intensive
         {
             if (textBox1.Text != "")
             {
-                kkal_product = (Convert.ToInt32(textBox1.Text.ToString())/100) * kkal;
+                kkal_product = (Convert.ToDouble(textBox1.Text.ToString())/100) * kkal;
                 label5.Text = kkal_product.ToString();
             }
         }
